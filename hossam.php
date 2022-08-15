@@ -3,7 +3,7 @@
 
 public function (){
  
-var_dump('hell0');   
+var_dump('hell0gr');   
 }
 
 ?>
