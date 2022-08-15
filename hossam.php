@@ -13,4 +13,13 @@ function no (){
     echo "fgfhname";
 };
 
+
+function name (){
+    echo "fgfhname";
+};
+
+function no (){
+    echo "fgfhname";
+};
+
 ?>
