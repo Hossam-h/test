@@ -1,5 +1,8 @@
 <?php
 echo"xcx";
+function nosa (){
+    echo "fgfhname";
+};
 
 
 function name (){
