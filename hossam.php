@@ -1,7 +1,9 @@
 <?php
 
 
-echo"add in master12";
-echo"add in master12"
+public function (){
+ 
+var_dump('hell0');   
+}
 
 ?>
