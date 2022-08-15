@@ -1,7 +1,7 @@
 <?php
 
 function name (){
-    echo "name";
+    echo "fgfhname";
 };
 
 ?>
