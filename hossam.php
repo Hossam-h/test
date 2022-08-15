@@ -14,11 +14,11 @@ function no (){
 };
 
 
-function name (){
+function name1 (){
     echo "fgfhname";
 };
 
-function no (){
+function no2 (){
     echo "fgfhname";
 };
 
