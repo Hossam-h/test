@@ -1,5 +1,5 @@
 <?php
-function name (){
+function mofa (){
     echo "fgfhname";
 };
 function noor (){
