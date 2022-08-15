@@ -1,7 +1,5 @@
 <?php
 
-echo "Add in test2";
-echo "Add in test3";
 
-
+echo"add in master"
 ?>
